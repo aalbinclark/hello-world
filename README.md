@@ -10,4 +10,4 @@ Gotta love GIT.
 
 Adding this from another branch.
 
-Dabbling with Gitmoji.
+Dabbling with Gitmoji for expressive commits.
